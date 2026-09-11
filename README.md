@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm **Dnyaneshwari Gaidhani**
 
-### `Software Engineer` • `Full-Stack Developer` • `Java` + `MERN` • 'AL/ML Enthusiast
+### `Software Engineer` • `Full-Stack Developer` • `Java` + `MERN` • AL/ML Enthusiast
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+%F0%9F%9A%80;Java+%7C+React.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real-world+products+%E2%9C%A8;Always+learning.+Always+building." alt="Typing SVG" />
