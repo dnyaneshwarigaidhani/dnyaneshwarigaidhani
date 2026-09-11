@@ -119,7 +119,7 @@ public class Dnyaneshwari {
 
 # 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ## ♿ SensiQ
 
@@ -152,7 +152,7 @@ An accessibility-focused e-learning platform designed to create a more inclusive
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🛒 NorthEastStore
 
@@ -184,7 +184,7 @@ A modern e-commerce platform for discovering and purchasing authentic products f
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🍔 Foodie Hunter
 
@@ -285,6 +285,25 @@ Software Engineer
 ```
 
 ---
+# 🧩 What I'm Interested In
+
+🌐 Full-Stack Development
+🤖 Artificial Intelligence
+💡 Real-World Problem Solving
+
+---
+# 📌 2026 Goals
+
+🚀 Become a strong Full-Stack Developer
+⚛️ Build production-ready React applications
+🔧 Strengthen backend development
+🧩 Improve DSA & problem-solving skills
+🤖 Explore practical AI applications
+💼 Start my professional software development career
+🌱 Stay consistent with learning and building
+
+---
+
 
 # 🐍 Contribution Activity
 
