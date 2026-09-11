@@ -4,7 +4,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm **Dnyaneshwari Gaidhani**
 
