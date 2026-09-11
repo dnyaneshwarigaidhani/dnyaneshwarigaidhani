@@ -1,196 +1,338 @@
-<h1 align="center">Hi 👋, I'm Dnyaneshwari Gaidhani</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-Software Engineer • Full-Stack Developer • Java & MERN
-</h3>
+<!--                     PREMIUM GITHUB README                       -->
 
-<p align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 👋 Hi, I'm **Dnyaneshwari Gaidhani**
+
+### `Software Engineer` • `Full-Stack Developer` • `Java` • `MERN`
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+%F0%9F%9A%80;Java+%7C+React.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+real-world+products+%E2%9C%A8;Always+learning.+Always+building." alt="Typing SVG" />
+</p>
+
+<p>
   <a href="https://github.com/dnyaneshwarigaidhani">
-    <img src="https://komarev.com/ghpvc/?username=dnyaneshwarigaidhani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=dnyaneshwarigaidhani&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/dnyaneshwarigaidhani?tab=followers">
+    <img src="https://img.shields.io/github/followers/dnyaneshwarigaidhani?label=FOLLOWERS&style=for-the-badge&color=58A6FF" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/dnyaneshwarigaidhani">
-    <img src="https://img.shields.io/github/followers/dnyaneshwarigaidhani?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+<p>
+  <a href="https://www.linkedin.com/in/dnyaneshwari-gaidhani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dnyaneshwarigaidhani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dnyaneshwarigaidhani">
-    <img src="https://img.shields.io/github/stars/dnyaneshwarigaidhani?label=Stars&style=flat&logo=github" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Engineering graduate and Full-Stack Developer** passionate about building responsive, accessible, and user-focused web applications.
+```java
+public class Dnyaneshwari {
 
-* 🎓 Computer Engineering Graduate
-* 💻 Focused on **Full-Stack Web Development**
-* ☕ Experienced with **Java Full-Stack Development**
-* ⚛️ Building modern web applications with **JavaScript, React.js & Node.js**
-* 🍃 Working with **MongoDB, MySQL & REST APIs**
-* 🧠 Strengthening my knowledge of **Data Structures & Algorithms**
-* 🤖 Exploring **AI/ML and modern web technologies**
-* 🚀 Interested in building real-world products and solving practical problems
-* 📍 Based in Maharashtra, India
+    String role = "Software Engineer";
+    String focus = "Full-Stack Development";
+
+    String[] primaryStack = {
+        "Java",
+        "React.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL"
+    };
+
+    String[] interests = {
+        "Web Development",
+        "Problem Solving",
+        "AI/ML",
+        "Accessible Technology"
+    };
+
+    boolean openToOpportunities = true;
+}
+```
+
+🎓 **Computer Engineering Graduate**
+
+💻 Passionate about creating **full-stack applications** that solve real-world problems.
+
+☕ Strong interest in **Java Full-Stack Development** and modern web technologies.
+
+⚛️ Building responsive interfaces using **React.js, JavaScript, HTML, CSS & Bootstrap**.
+
+⚙️ Developing backend systems and REST APIs using **Java, Node.js & Express.js**.
+
+🗄️ Working with **MongoDB, MySQL & PostgreSQL**.
+
+🧠 Currently strengthening **Data Structures & Algorithms** and exploring **AI/ML**.
+
+🚀 Always learning, building, and improving.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ♿ SensiQ — Inclusive E-Learning Platform
+<div align="center">
 
-An accessibility-focused e-learning platform designed to provide an inclusive learning experience for people with sensory disabilities.
+## ♿ SensiQ
 
-**Highlights:**
+### *Inclusive E-Learning Platform*
 
-* Accessibility-focused user experience
-* Text-to-Speech functionality
-* Speech-to-Text functionality
-* Sign-language learning support
-* Personalized learning preferences
-* Responsive web interface
+An accessibility-focused e-learning platform designed to create a more inclusive digital learning experience for people with sensory disabilities.
 
-🔗 **Live:** [SensiQ](https://sensiq-learning.onrender.com/home)
+</div>
 
-🔗 **Repository:** [View on GitHub](https://github.com/dnyaneshwarigaidhani/SensiQ-An-Inclusive-E-Learning-Paltform)
+**✨ Key Features**
 
----
+* 🔊 Text-to-Speech
+* 🎤 Speech-to-Text
+* 🤟 Sign-language learning support
+* 📚 Course & lesson management
+* 🎯 Personalized learning preferences
+* 📱 Responsive interface
+* ♿ Accessibility-focused design
 
-### 🛒 NorthEastStore — Full-Stack E-Commerce Platform
-
-A full-stack e-commerce platform developed for discovering and purchasing authentic products from Northeast India.
-
-**Features:**
-
-* User authentication
-* Product browsing
-* Shopping cart
-* Wishlist
-* Secure checkout
-* Order management
-* Inventory management
-* REST APIs
-* Responsive UI
-
-🔗 **Live:** [NorthEastStore](https://northeast-store.vercel.app/)
-
----
-
-### 🍔 Foodie Hunter — Online Food Ordering System
-
-A web-based food ordering application developed with Java Full-Stack technologies.
-
-**Features:**
-
-* Menu browsing
-* Cart management
-* Order placement
-* Database integration
-* REST API testing
-* Responsive frontend
-
-**Technologies:** Java, Servlets, JSP, JDBC, MySQL, HTML, CSS, JavaScript & Bootstrap
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwarigaidhani&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarigaidhani&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dnyaneshwarigaidhani&hide_border=true" />
-</p>
-
----
-
-## 🧩 Problem Solving
+**Tech:** `HTML` `CSS` `Bootstrap` `JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
 
 <p>
-  <a href="https://leetcode.com/u/pti6oaswza/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/dnyaneshward2bn/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+<a href="https://sensiq-learning.onrender.com/home">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-58A6FF?style=for-the-badge" />
+</a>
+<a href="https://github.com/dnyaneshwarigaidhani/SensiQ-An-Inclusive-E-Learning-Paltform">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+<div align="center">
+
+## 🛒 NorthEastStore
+
+### *Full-Stack E-Commerce Platform*
+
+A modern e-commerce platform for discovering and purchasing authentic products from Northeast India.
+
+</div>
+
+**✨ Key Features**
+
+* 🔐 User authentication
+* 🛍️ Product browsing
+* 🛒 Shopping cart
+* ❤️ Wishlist
+* 💳 Secure checkout
+* 📦 Order management
+* 📊 Inventory management
+* 🔌 REST APIs
+* ☁️ Vercel deployment
+
+**Tech:** `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+<p>
+<a href="https://northeast-store.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-58A6FF?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+## 🍔 Foodie Hunter
+
+### *Online Food Ordering System*
+
+A Java Full-Stack web application for browsing food menus, managing carts, and placing orders.
+
+</div>
+
+**✨ Key Features**
+
+* 🍕 Menu browsing
+* 🛒 Cart management
+* 📦 Order placement
+* 🗄️ MySQL database integration
+* 🔌 API testing with Postman
+* 📱 Responsive UI
+
+**Tech:** `Java` `Servlets` `JSP` `JDBC` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dnyaneshwarigaidhani&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarigaidhani&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dnyaneshwarigaidhani&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/pti6oaswza/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/dnyaneshward2bn/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Learn%20%26%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+`DSA` • `Java` • `TypeScript` • `AI/ML` • `Tailwind CSS` • `PostgreSQL`
+
+</div>
+
+---
+
+# 📈 My Developer Journey
 
 ```text
-Data Structures & Algorithms
-        ↓
-Java & Full-Stack Development
-        ↓
-React.js & TypeScript
-        ↓
-AI / ML
-        ↓
-Modern Backend & Database Technologies
+Computer Engineering
+        │
+        ▼
+Java & Programming Fundamentals
+        │
+        ▼
+Frontend Development
+HTML • CSS • JavaScript • React
+        │
+        ▼
+Backend Development
+Java • Node.js • Express
+        │
+        ▼
+Database & APIs
+MongoDB • MySQL • REST APIs
+        │
+        ▼
+Full-Stack Projects
+        │
+        ▼
+AI/ML + Advanced Development
+        │
+        ▼
+        🚀
+Software Engineer
 ```
 
 ---
 
-## 🤝 Connect With Me
+# 🐍 Contribution Activity
 
-<p align="left">
-  <a href="mailto:dnyaneshwarigaidhani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dnyaneshwari-gaidhani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/dnyaneshwarigaidhani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+<!-- Enable the GitHub Action below to generate this animation -->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>✨ Building, learning, and turning ideas into real-world applications.</i>
-</p>
+# 🤝 Let's Connect
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<div align="center">
+
+I'm always interested in connecting with developers, recruiters, and people building interesting products.
+
+<br>
+
+<a href="https://www.linkedin.com/in/dnyaneshwari-gaidhani/">
+<img src="https://img.shields.io/badge/LinkedIn-Dnyaneshwari%20Gaidhani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dnyaneshwarigaidhani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dnyaneshwarigaidhani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/dnyaneshwarigaidhani">
+<img src="https://img.shields.io/badge/GitHub-dnyaneshwarigaidhani-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build. Learn. Improve. Repeat."*
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
