@@ -287,20 +287,30 @@ Software Engineer
 ---
 # 🧩 What I'm Interested In
 
-🌐 Full-Stack Development
-🤖 Artificial Intelligence
-💡 Real-World Problem Solving
+ 🌐 Full-Stack Development
+ 
+ 🤖 Artificial Intelligence
+ 
+ 💡 Real-World Problem Solving
+ 
 
 ---
 # 📌 2026 Goals
 
-🚀 Become a strong Full-Stack Developer
-⚛️ Build production-ready React applications
-🔧 Strengthen backend development
-🧩 Improve DSA & problem-solving skills
-🤖 Explore practical AI applications
-💼 Start my professional software development career
-🌱 Stay consistent with learning and building
+ 🚀 Become a strong Full-Stack Developer
+ 
+ ⚛️ Build production-ready React applications
+ 
+ 🔧 Strengthen backend development
+ 
+ 🧩 Improve DSA & problem-solving skills
+ 
+ 🤖 Explore practical AI applications
+ 
+ 💼 Start my professional software development career
+ 
+ 🌱 Stay consistent with learning and building
+ 
 
 ---
 
